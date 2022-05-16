@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_secure_session_id	8506df17aaba2ef81e4e68640392dbe4
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	localization	US
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_y	0506b9f5-4484-4162-9357-5cc006c0aff1
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_s	db5b62be-30d7-4ad6-b108-7fa9b6f11688
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_shopify_y	0506b9f5-4484-4162-9357-5cc006c0aff1
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	_shopify_s	db5b62be-30d7-4ad6-b108-7fa9b6f11688
+ezdetanglerbrush.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
